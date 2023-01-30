@@ -1,10 +1,6 @@
 // Copyright 2011-2016 The Go Authors.  All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
-// test
-// test 3
-// test 4
-// test 5
 // test 6
 // tets 7
 
